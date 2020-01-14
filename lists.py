@@ -7,7 +7,7 @@ for i in range(10):
 print(my_randoms)
 
 # Generate a list of numbers 1..10
-numbers_1_to_10 = list(range(1, 11))
+numbers_1_to_10 = range(1, 11)
 
 # Iterate from 1 to 10
 for number in numbers_1_to_10:
